@@ -1,0 +1,40 @@
+{
+    "albums": [
+        {
+            "title": "Music Box",
+            "artist": "Mariah Carey",
+            "year": 1993,
+            "songs": [
+                "Dreamlover",
+                "Hero",
+                "Without You",
+                "Just to Hold You Once Again",
+                "Anytime You Need a Friend"
+            ]
+        },
+        {
+            "title": "Lemonade",
+            "artist": "Beyoncé",
+            "year": 2016,
+            "songs": [
+                "Pray You Catch Me",
+                "Hold Up",
+                "Don't Hurt Yourself",
+                "Sorry",
+                "6 Inch"
+            ]
+        },
+        {
+            "title": "Map of the Soul: 7",
+            "artist": "BTS",
+            "year": 2020,
+            "songs": [
+                "Intro: Persona",
+                "Boy with Luv",
+                "Make It Right",
+                "Jamais Vu",
+                "Dionysus"
+            ]
+        }
+    ]
+}
