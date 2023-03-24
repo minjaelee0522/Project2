@@ -1,40 +1,20 @@
-{
-    "albums": [
-        {
-            "title": "Music Box",
-            "artist": "Mariah Carey",
-            "year": 1993,
-            "songs": [
-                "Dreamlover",
-                "Hero",
-                "Without You",
-                "Just to Hold You Once Again",
-                "Anytime You Need a Friend"
-            ]
-        },
-        {
-            "title": "Lemonade",
-            "artist": "Beyoncé",
-            "year": 2016,
-            "songs": [
-                "Pray You Catch Me",
-                "Hold Up",
-                "Don't Hurt Yourself",
-                "Sorry",
-                "6 Inch"
-            ]
-        },
-        {
-            "title": "Map of the Soul: 7",
-            "artist": "BTS",
-            "year": 2020,
-            "songs": [
-                "Intro: Persona",
-                "Boy with Luv",
-                "Make It Right",
-                "Jamais Vu",
-                "Dionysus"
-            ]
-        }
-    ]
-}
+[
+    {
+        "album": "Daydream",
+        "artist": "Mariah Carey",
+        "year": 1995,
+        "tracks": ["Fantasy", "One Sweet Day", "Open Arms", "Always Be My Baby", "Underneath the Stars"]
+    },
+    {
+        "album": "Beyonce",
+        "artist": "Beyonce",
+        "year": 2013,
+        "tracks": ["Pretty Hurts", "Haunted", "Drunk in Love", "Blow", "Partition"]
+    },
+    {
+        "album": "Love Yourself: Answer",
+        "artist": "BTS",
+        "year": 2018,
+        "tracks": ["Euphoria", "Trivia: Just Dance", "I'm Fine", "IDOL", "Answer: Love Myself"]
+    }
+]
